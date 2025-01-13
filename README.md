@@ -17,7 +17,7 @@
 
  ## 시연 영상
  ### [MANUAL MODE](https://www.youtube.com/watch?v=dndRNLSjFI0&list=PLIqZl1dMBPvQquN291GSC8lz6nchyyjR3)
-![alt text](img/MANUAL.gif)
+![alt text](img/Manual.gif)
 
  ### [AUTO MODE](https://www.youtube.com/watch?v=PpvfeSgG5y0&list=PLIqZl1dMBPvQquN291GSC8lz6nchyyjR3&index=2)
-![alt text](img/AUTOMode.gif)
+![alt text](img/AutoMode.gif)
