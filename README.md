@@ -15,7 +15,9 @@
  - 스타일러
 🛑 담당이었던 월패드 내용만 기재하였다.
 
- ##시연 영상
- MANUAL MODE
+ ## 시연 영상
+ ### [MANUAL MODE](https://www.youtube.com/watch?v=dndRNLSjFI0&list=PLIqZl1dMBPvQquN291GSC8lz6nchyyjR3)
+![alt text](img/MANUAL.gif)
 
- AUTOMODE
+ ### [AUTO MODE](https://www.youtube.com/watch?v=PpvfeSgG5y0&list=PLIqZl1dMBPvQquN291GSC8lz6nchyyjR3&index=2)
+![alt text](img/AUTOMode.gif)
