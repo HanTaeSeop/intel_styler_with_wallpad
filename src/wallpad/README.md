@@ -26,16 +26,21 @@
 ```plaintext
 📁 wallpad
 ├── 📂 Core
-│   ├── 📂 Inc         # 헤더파일 모음
-│   ├── 📂 Src        # C파일 모음
-├── 📂 Drivers              # IDE가 보드에 지원하는 드라이버 
-├── 📂 Debug                # 빌드시 실행할 Make파일 및 부산물 파일
-│   ├── Miniproject.ioc                # CubeIDE가 제공하는 보드 Peri 제어용 파일
+│   ├── 📂 Inc            # 헤더파일 모음
+│   └── 📂 Src            # C파일 모음
+├── 📂 Drivers            # IDE가 보드에 지원하는 드라이버
+├── 📂 Debug              # 빌드 시 실행할 Make파일 및 부산물 파일
+└── Miniproject.ioc       # CubeIDE가 제공하는 보드 Peri 제어용 파일
+
 
 ```
-## 📂 **사용 H/W**
-1. Nucleo-F411RE
-2. Zs-040
-3. HW-061
+##  **사용 H/W**
+1. Nucleo-F411RE</br>
+![alt text](../../img/Board.png)
+2. Zs-040</br>
+![alt text](../../img/Bt.png)
+3. HW-061</br>
+![alt text](../../img/LCD.png)
 
 ## 실물 사진
+![alt text](../../img/wallpad.png)
