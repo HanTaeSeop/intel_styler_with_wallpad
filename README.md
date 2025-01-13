@@ -9,11 +9,13 @@
   - 자동 환풍시스템 구축
 
 ## 전체 시스템 구성
-
+### H/W & S/W
+![alt text](img/전체시스템.png)
 ## 상세 내용
- - 월패드
+ - [월패드](https://github.com/HanTaeSeop/intel_styler_with_wallpad/tree/main/src/wallpad)
+ - [서버](https://github.com/HanTaeSeop/intel_styler_with_wallpad/tree/main/src/iot_server%2Cclient) 
  - 스타일러
-🛑 담당이었던 월패드 내용만 기재하였다.
+🛑 담당이었던 월패드와 서버 내용만 기재하였다.
 
  ## 시연 영상
  ### [MANUAL MODE](https://www.youtube.com/watch?v=dndRNLSjFI0&list=PLIqZl1dMBPvQquN291GSC8lz6nchyyjR3)
